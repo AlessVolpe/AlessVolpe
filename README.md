@@ -26,7 +26,7 @@ Older projects here range from web applications and rover ground stations to exp
 
 Ask me why I think **Edsger Dijkstra may have been even more important to everyday programmers than Alan Turing**.
 
-Pronouns: **any**. Choose whatever comes naturally.
+Pronouns: **he/him or they/them**. Either works.
 
 ## Elsewhere
 
